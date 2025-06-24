@@ -1,6 +1,3 @@
-Excellent! Here’s an **Amazing, Polished, and Professional** `README.md` you can directly use for your project, based on the images you shared:
-
----
 
 # AI Medical Chatbot 🩺👁️🎤
 
